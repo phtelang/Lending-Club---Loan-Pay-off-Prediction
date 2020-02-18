@@ -9,7 +9,7 @@ The approved loans datasets contain information on current loans, completed loan
 ### Summary of Results
 Using the random forest algorithm significantly increased our TPR and reduced our FPR to 16%. For a conservative investor, this means that they make money as long as the interest rate is high enough to offset the losses from 16% of borrowers defaulting, and that the pool of 85% of borrowers is large enough to make enough interest money to offset the losses.
 
-To view the code and graphs accurately, please click on __[this link](https://nbviewer.jupyter.org/github/phtelang/Lending-Club---Loan-Pay-off-Prediction/blob/master/Lending%20Club%20-%20Loan%20Pay%20off%20Prediction.ipynb) as some of the Plotly graphs are not displayed directly on Github.
+To view the code and graphs accurately, please click on __[this link](https://nbviewer.jupyter.org/github/phtelang/Lending-Club---Loan-Pay-off-Prediction/blob/master/Lending%20Club%20-%20Loan%20Pay%20off%20Prediction.ipynb)__ as some of the Plotly graphs are not displayed directly on Github.
 
 ### Installation
 - Download the source csv file on your local folder.
